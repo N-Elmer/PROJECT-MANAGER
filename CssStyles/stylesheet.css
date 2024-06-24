@@ -1,0 +1,39 @@
+#admin_main_title{
+    text-align: center;
+    background-color: aqua;
+    color: black;
+    padding: 20px;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+
+#admin_sub_title{
+    text-align: center;
+    background-color: darkcyan;
+    color: black;
+    padding: 20px;
+    letter-spacing: 2px;
+    font-weight: 250;
+}
+
+.box1 h2{
+    float: left;
+}
+
+.box1 button{
+    float: right;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+h6{
+    text-align: center;
+    color: red;
+}
+
+h5{
+    text-align: center;
+    color: green;
+}
